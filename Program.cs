@@ -26,7 +26,7 @@ namespace EmployeeAssi
             Employee e1 = new Employee("Akshay", 800, 10);
             Console.WriteLine("Gross salary for for {0} is {1} ", e1.Name, e1.GetNetSalary());
             Console.WriteLine(e1.EmpNo);
-            Employee e2 = new Employee("Pravin", 600);
+            Employee e2 = new Employee("Pravin", 400);
             Console.WriteLine(e2.EmpNo);
             Console.WriteLine("Gross salary for {0} is {1}", e2.Name, e2.GetNetSalary());
             Employee e3 = new Employee("");
