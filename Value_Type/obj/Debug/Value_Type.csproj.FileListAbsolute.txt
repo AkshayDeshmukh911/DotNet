@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Day5\Value_Type\bin\Debug\Value_Type.exe.config
+C:\Users\User\source\repos\Day5\Value_Type\bin\Debug\Value_Type.exe
+C:\Users\User\source\repos\Day5\Value_Type\bin\Debug\Value_Type.pdb
+C:\Users\User\source\repos\Day5\Value_Type\obj\Debug\Value_Type.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Day5\Value_Type\obj\Debug\Value_Type.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day5\Value_Type\obj\Debug\Value_Type.exe
+C:\Users\User\source\repos\Day5\Value_Type\obj\Debug\Value_Type.pdb
