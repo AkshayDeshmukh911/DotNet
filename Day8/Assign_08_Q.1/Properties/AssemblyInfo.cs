@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AnonMethodsAndLambdas")]
+[assembly: AssemblyTitle("Assign_08_Q.1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AnonMethodsAndLambdas")]
+[assembly: AssemblyProduct("Assign_08_Q.1")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c12fc237-62a4-42ec-b46e-2cc84a635eb2")]
+[assembly: Guid("bad58e12-b30b-4a4d-991d-cb3b9c2b60ac")]
 
 // Version information for an assembly consists of the following four values:
 //

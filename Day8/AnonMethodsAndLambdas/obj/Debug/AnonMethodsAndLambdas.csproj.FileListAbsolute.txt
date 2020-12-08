@@ -1,7 +1,7 @@
-D:\Trainings\JKDec20\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.exe.config
-D:\Trainings\JKDec20\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.exe
-D:\Trainings\JKDec20\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.pdb
-D:\Trainings\JKDec20\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.csprojAssemblyReference.cache
-D:\Trainings\JKDec20\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.csproj.CoreCompileInputs.cache
-D:\Trainings\JKDec20\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.exe
-D:\Trainings\JKDec20\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.pdb
+C:\Users\User\Desktop\DOTNet\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.exe.config
+C:\Users\User\Desktop\DOTNet\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.exe
+C:\Users\User\Desktop\DOTNet\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.pdb
+C:\Users\User\Desktop\DOTNet\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DOTNet\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOTNet\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.exe
+C:\Users\User\Desktop\DOTNet\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.pdb

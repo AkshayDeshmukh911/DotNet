@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q2\bin\Debug\Assignment_Q2.exe.config
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q2\bin\Debug\Assignment_Q2.exe
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q2\bin\Debug\Assignment_Q2.pdb
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q2\obj\Debug\Assignment_Q2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q2\obj\Debug\Assignment_Q2.exe
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q2\obj\Debug\Assignment_Q2.pdb
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q2\obj\Debug\Assignment_Q2.csprojAssemblyReference.cache

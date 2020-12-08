@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DOTNet\Day8\Assign_08_Q.1\bin\Debug\Assign_08_Q.1.exe.config
+C:\Users\User\Desktop\DOTNet\Day8\Assign_08_Q.1\bin\Debug\Assign_08_Q.1.exe
+C:\Users\User\Desktop\DOTNet\Day8\Assign_08_Q.1\bin\Debug\Assign_08_Q.1.pdb
+C:\Users\User\Desktop\DOTNet\Day8\Assign_08_Q.1\obj\Debug\Assignmeent_Q1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOTNet\Day8\Assign_08_Q.1\obj\Debug\Assign_08_Q.1.exe
+C:\Users\User\Desktop\DOTNet\Day8\Assign_08_Q.1\obj\Debug\Assign_08_Q.1.pdb

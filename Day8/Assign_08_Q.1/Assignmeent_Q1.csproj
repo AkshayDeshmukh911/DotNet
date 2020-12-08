@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C12FC237-62A4-42EC-B46E-2CC84A635EB2}</ProjectGuid>
+    <ProjectGuid>{BAD58E12-B30B-4A4D-991D-CB3B9C2B60AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AnonMethodsAndLambdas</RootNamespace>
-    <AssemblyName>AnonMethodsAndLambdas</AssemblyName>
+    <RootNamespace>Assign_08_Q._1</RootNamespace>
+    <AssemblyName>Assign_08_Q.1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

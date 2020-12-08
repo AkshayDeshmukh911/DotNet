@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q3\obj\Debug\Assignment_Q3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DOTNet\Day8\Assignment_Q3\obj\Debug\Assignment_Q3.csproj.CoreCompileInputs.cache
