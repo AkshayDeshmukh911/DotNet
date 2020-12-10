@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\DOTNet\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\User\Desktop\DOTNet\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\User\Desktop\DOTNet\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\User\Desktop\DOTNet\Properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DOTNet\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOTNet\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\User\Desktop\DOTNet\Properties\Properties\obj\Debug\Properties.pdb

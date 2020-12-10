@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\DOTNet\Properties\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\User\Desktop\DOTNet\Properties\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\User\Desktop\DOTNet\Properties\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\User\Desktop\DOTNet\Properties\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DOTNet\Properties\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOTNet\Properties\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\User\Desktop\DOTNet\Properties\StaticClass\obj\Debug\StaticClass.pdb
