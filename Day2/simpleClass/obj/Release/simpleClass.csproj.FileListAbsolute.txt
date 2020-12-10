@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\DOTNet\Day2\simpleClass\obj\Release\simpleClass.csproj.CoreCompileInputs.cache

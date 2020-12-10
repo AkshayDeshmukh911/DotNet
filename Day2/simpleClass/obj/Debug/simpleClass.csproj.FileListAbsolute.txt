@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\DOTNet\Day2\simpleClass\obj\Debug\simpleClass.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DOTNet\Day2\simpleClass\obj\Debug\simpleClass.csproj.CoreCompileInputs.cache

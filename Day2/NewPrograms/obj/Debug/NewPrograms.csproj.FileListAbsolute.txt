@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\DOTNet\Day2\NewPrograms\bin\Debug\NewPrograms.exe.config
+C:\Users\User\Desktop\DOTNet\Day2\NewPrograms\bin\Debug\NewPrograms.exe
+C:\Users\User\Desktop\DOTNet\Day2\NewPrograms\bin\Debug\NewPrograms.pdb
+C:\Users\User\Desktop\DOTNet\Day2\NewPrograms\obj\Debug\NewPrograms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOTNet\Day2\NewPrograms\obj\Debug\NewPrograms.exe
+C:\Users\User\Desktop\DOTNet\Day2\NewPrograms\obj\Debug\NewPrograms.pdb
+C:\Users\User\Desktop\DOTNet\Day2\NewPrograms\obj\Debug\NewPrograms.csprojAssemblyReference.cache
