@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Day5\EmployeeArrays\bin\Debug\EmployeeArrays.exe.config
+C:\Users\User\source\repos\Day5\EmployeeArrays\bin\Debug\EmployeeArrays.exe
+C:\Users\User\source\repos\Day5\EmployeeArrays\bin\Debug\EmployeeArrays.pdb
+C:\Users\User\source\repos\Day5\EmployeeArrays\obj\Debug\EmployeeArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day5\EmployeeArrays\obj\Debug\EmployeeArrays.exe
+C:\Users\User\source\repos\Day5\EmployeeArrays\obj\Debug\EmployeeArrays.pdb
+C:\Users\User\source\repos\Day5\EmployeeArrays\obj\Debug\EmployeeArrays.csprojAssemblyReference.cache
