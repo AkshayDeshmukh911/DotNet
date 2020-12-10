@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Day6\DelegateClass\bin\Debug\DelegateClass.exe.config
+C:\Users\User\source\repos\Day6\DelegateClass\bin\Debug\DelegateClass.exe
+C:\Users\User\source\repos\Day6\DelegateClass\bin\Debug\DelegateClass.pdb
+C:\Users\User\source\repos\Day6\DelegateClass\obj\Debug\DelegateClass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day6\DelegateClass\obj\Debug\DelegateClass.exe
+C:\Users\User\source\repos\Day6\DelegateClass\obj\Debug\DelegateClass.pdb
+C:\Users\User\source\repos\Day6\DelegateClass\obj\Debug\DelegateClass.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Day6\HashTableAndSortedList\bin\Debug\HashTableAndSortedList.exe.config
+C:\Users\User\source\repos\Day6\HashTableAndSortedList\bin\Debug\HashTableAndSortedList.exe
+C:\Users\User\source\repos\Day6\HashTableAndSortedList\bin\Debug\HashTableAndSortedList.pdb
+C:\Users\User\source\repos\Day6\HashTableAndSortedList\obj\Debug\HashTableAndSortedList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Day6\HashTableAndSortedList\obj\Debug\HashTableAndSortedList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day6\HashTableAndSortedList\obj\Debug\HashTableAndSortedList.exe
+C:\Users\User\source\repos\Day6\HashTableAndSortedList\obj\Debug\HashTableAndSortedList.pdb
